@@ -46,6 +46,14 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">Job Application Tracker<br>Full-stack web app to manage and track job applications with real-time updates<br>Tech: HTML, CSS, JavaScript, Spring Boot, PostgreSQL<br><br>Cloud-Based Video Streaming Platform<br>Designed scalable cloud architecture using AWS services (EC2, S3, CloudFront)<br>Focused on performance, scalability, and secure delivery</p>
+
+###
+
 <h2 align="left">Let's Connect!</h2>
 
 ###
