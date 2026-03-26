@@ -81,3 +81,7 @@
 </div>
 
 ###
+
+<p align="left">Always open to opportunities, collaborations, and learning experiences. Let's build something impactful together!</p>
+
+###
