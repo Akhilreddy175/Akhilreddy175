@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Welcome to my github profile! I'm Passinate software developer with interest in building reliable cloud-native systems that scales. I enjoy working with frontend and backend technlogies as well.</p>
+<p align="left">Welcome to my github profile! I'm Passionate software developer with interest in building reliable cloud-native systems that scales. I enjoy working with frontend and backend technlogies as well.</p>
 
 ###
 
@@ -70,11 +70,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Akhilreddy175&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilreddy175&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilreddy175&layout=compact&theme=dracula" height="150" />
-  </div>
 </div>
 
 ###
