@@ -54,11 +54,18 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Akhilreddy175&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilreddy175&theme=tokyo-night&hide_border=true)
+
+</div>
 <h2 align="left">Let's Connect!</h2>
 
 ###
-
-<p align="left">I'm always  open to collaborating on interesting projects or discussing new ideas.</p>
 
 ###
 
@@ -76,9 +83,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Akhilreddy175&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
