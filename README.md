@@ -23,12 +23,11 @@ I build REST APIs with Java & Spring Boot, design AWS infrastructure using EC2, 
 and VPC, automate deployments with Docker, GitHub Actions, and CI/CD pipelines,  
 and explore infrastructure-as-code with Terraform.
 
-- 🔭 Currently working on: **Spring Boot Microservices Project**
-- 🌱 Currently learning: **Spring Security, Kubernetes, System Design**
-- 💬 Ask me about: **Java, Spring Boot, PostgreSQL, Docker, AWS**
-- 📍 Location: India | Open to opportunities
-- 🎯 Goal: Backend / Full-Stack / Cloud Engineer role
-
+* 🔨 Currently working on: Algorithmic Problem Solving, Scalable Cloud Infrastructure Design, GitOps & Infrastructure Automation Workflows
+* 🌱 Currently learning: DevOps Engineering, CI/CD Automation, Kubernetes & Container Orchestration
+* 💬 Ask me about: AWS, Cloud-Native Architecture, Infrastructure Automation, Java, Spring Boot, Docker
+* 📍 Location: India | Open to Full-Time Opportunities
+* 🎯 Goal: Backend / Cloud / DevOps Engineer — building reliable, scalable, production-grade systems
 ---
 
 ## 🔧 Tech Stack
