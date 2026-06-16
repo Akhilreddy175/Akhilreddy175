@@ -76,7 +76,7 @@ and explore infrastructure-as-code with Terraform.
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [Job Application Tracker](https://github.com/Akhilreddy175/jobapplicationtracker) | Full-stack app to manage job applications with CRUD, status tracking, and Dockerized deployment on AWS EC2 with Nginx reverse proxy | Java, Spring Boot, PostgreSQL, Docker, AWS EC2, Nginx | [Demo](http://3.208.22.40/) |
+| [Job Application Tracker](https://github.com/Akhilreddy175/jobapplicationtracker) | Full-stack app to manage job applications with CRUD, status tracking, and Dockerized deployment on AWS EC2 with Nginx reverse proxy | Java, Spring Boot, PostgreSQL, Docker, AWS EC2, Nginx | [Demo](https://jobapplicationtracker.live/) |
 | [VeloCart](https://github.com/Akhilreddy175/Velocart) | Microservices e-commerce platform with 4 independent services (user, product, cart, order), JWT auth at the API gateway, Redis caching, and database-per-service pattern | Java, Spring Boot, Spring Cloud Gateway, Redis, PostgreSQL, Docker Compose, React | — |
 | [CloudWatch Log Analytics System](https://github.com/Akhilreddy175/CloudWatch-log-Analytics-System) | Serverless AWS log analytics pipeline using Lambda to process and analyse CloudWatch logs, with automated deploy/destroy scripts | AWS Lambda, CloudWatch, Python, PowerShell | — | Spring Boot, Eureka, Docker Compose | — |
 
